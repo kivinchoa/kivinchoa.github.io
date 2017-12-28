@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Academic 学术</title>
-    <link>/post/</link>
+    <link>https://kivinchoa.github.io/post/</link>
     <description>Recent content in Posts on Academic 学术</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -11,11 +11,11 @@
     <atom:link href="/post/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Myarticle</title>
-      <link>/post/myarticle/</link>
+      <title>近期发表文章</title>
+      <link>https://kivinchoa.github.io/post/myarticle/</link>
       <pubDate>Tue, 26 Dec 2017 21:26:04 -0500</pubDate>
       
-      <guid>/post/myarticle/</guid>
+      <guid>https://kivinchoa.github.io/post/myarticle/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Zhou, J., Qi, L., Gokhale, A.M., Generation of Three-Dimensional Microstructure Model for Discontinuously Reinforced Composite by Modified Random Sequential Absorption Method. JOURNAL OF ENGINEERING MATERIALS AND TECHNOLOGY-TRANSACTIONS OF THE ASME, 2016. 138(2). (EI:20160501860714) &lt;a href=&#34;http://120.25.199.128/images/d/d1/2016_Generation_of_ThreeDimensional.pdf&#34; target=&#34;_blank&#34;&gt;paper download&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Zhou, Jiming，Gokhale, Arun M，Gurumurthy, Ashok，Bhat, Shrinkant P，Realistic microstructural RVE-based simulations of stress–strain behavior of a dual-phase steel having high martensite volume fraction，Materials Science and Engineering: A，2015，630（0）：107-115。EI,SCI 期刊论文&lt;/li&gt;

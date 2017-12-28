@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>/post/myarticle/</loc>
+      <loc>https://kivinchoa.github.io/publication/mypub/</loc>
+      <lastmod>2017-12-27T19:57:40-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kivinchoa.github.io/post/myarticle/</loc>
       <lastmod>2017-12-26T21:26:04-05:00</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://kivinchoa.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://kivinchoa.github.io/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://kivinchoa.github.io/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://kivinchoa.github.io/</loc>
     </url>
     
   
@@ -49,7 +58,17 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://kivinchoa.github.io/publication_types/2/</loc>
+      <lastmod>2017-12-27T19:57:40-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://kivinchoa.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -59,7 +78,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://kivinchoa.github.io/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -68,7 +87,8 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://kivinchoa.github.io/publication_types/</loc>
+      <lastmod>2017-12-27T19:57:40-05:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -77,7 +97,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://kivinchoa.github.io/tags/</loc>
       <priority>0</priority>
     </url>
     
