@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>AME</title>
+      <link>https://kivinchoa.github.io/publication/ame/</link>
+      <pubDate>Wed, 27 Dec 2017 21:03:46 -0500</pubDate>
+      
+      <guid>https://kivinchoa.github.io/publication/ame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mse</title>
+      <link>https://kivinchoa.github.io/publication/mse/</link>
+      <pubDate>Wed, 27 Dec 2017 20:58:30 -0500</pubDate>
+      
+      <guid>https://kivinchoa.github.io/publication/mse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mypub</title>
       <link>https://kivinchoa.github.io/publication/mypub/</link>
       <pubDate>Wed, 27 Dec 2017 19:57:40 -0500</pubDate>
