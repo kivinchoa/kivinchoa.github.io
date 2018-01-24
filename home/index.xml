@@ -8,7 +8,90 @@
     <language>en-us</language>
     <copyright>&amp;copy; 2017 Jiming Zhou</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/home/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://kivinchoa.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://kivinchoa.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/about/</guid>
+      <description>Biography 简历 周计明，男，1976年6月22日生，中共党员，西北工业大学教授、博士生导师,西北工业大学机电学院首批“濮良贵-孙恒”青年教学带头人。1999年7月获西北工业大学航空飞行器设计专业学士学位；2002年3月获西北工业大学材料学专业硕士学位；2006年12月获西北工业大学机械设计及理论专业博士学位。2006年11月留校参加工作。2011年7月赴美国美国佐治亚理工进行访问学者研究1年，2017年2月赴美国约翰霍普金斯大学进行为期1年的访问学者研究。目前主要从事镁基复合材料制造及数值模拟方面的研究工作，承担国家自然科学基金、陕西省自然科学基金等项目6项，科研经费累计到款100余万，参研国家863计划、国家自然科学基金等项目10余项。第一作者发表学术论文20余篇，SCI、EI收录10余篇、获批国家发明专利5项，获国家技术发明二等奖1项（排名第6）、陕西省教学成果二等奖两项（排名第4）。承担《工程材料与机械制造基础》、《工程材料基础（全英文）》等课程教学工作，提出在课程教学中进行科研写作训练的思路，培养学生的写作能力与科研表达能力。建立了基于百科知识的课程教学网站，实现学生、老师的灵活交流与课程知识的逐渐积累，丰富了教学内容。</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications 代表著作</title>
+      <link>https://kivinchoa.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts 最近张贴</title>
+      <link>https://kivinchoa.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications 近期发表</title>
+      <link>https://kivinchoa.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://kivinchoa.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects 项目</title>
+      <link>https://kivinchoa.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching 教学</title>
+      <link>https://kivinchoa.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/teaching/</guid>
+      <description> 工程材料与机械制造基础（中文，技术基础课，U05M11026（48学时）） Fundamentals of Engineering Materials (in English, 专业核心课) Fundamentals of Mechanical Manufacturing (in English，专业核心课) 控制工程基础（双语，学科基础课，055010911（32学时）） 控制工程基础，基础课，U05M11095（32学时） 液压传动（中文，学科专业课，U05M11163（32学时）） 本科毕业设计  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://kivinchoa.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact 联系</title>
+      <link>https://kivinchoa.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://kivinchoa.github.io/home/contact/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
